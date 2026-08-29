@@ -2,6 +2,8 @@
 
 An extended Java implementation of the classic Tetris game, developed with a focus on **Object-Oriented Programming, GRASP principles, and extensible software design**.
 
+![Tetris Madness](Screenshot.png)
+
 ## Features
 
 * Classic Tetris gameplay with 7 standard pieces
